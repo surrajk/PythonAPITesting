@@ -9,4 +9,6 @@
 /vcs.xml
 /profiles_settings.xml
 .venv/
+venv
+
 
