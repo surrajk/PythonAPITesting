@@ -1,0 +1,21 @@
+{
+  "page": 1,
+  "total_results": 3,
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "skills": ["Python", "Java"]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "skills": ["JavaScript", "C#"]
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "skills": ["Go", "Rust", "Python"]
+    }
+  ]
+}
